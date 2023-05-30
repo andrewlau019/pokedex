@@ -1,0 +1,21 @@
+body {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.image-container {
+    display: inline-block;
+    margin-right: 1rem;
+    vertical-align: middle;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 5rem;
+}
+
+.pokemon_image {
+    width: 200px;
+    height: 200px;
+}

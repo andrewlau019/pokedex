@@ -1,0 +1,22 @@
+URL indicating the address where the database application is deployed
+
+http://35.227.172.67/
+
+username/password of the DBMS server and how to access it (e.g. MySQL and address of phpMyAdmin)
+
+Username : root
+password : zSpZEaDQ7mxA
+
+For phpMyAdmin, access it by entering http://35.227.172.67/phpMyAdmin
+and then put in the Username and password
+
+front-end interface address URL(s)
+http://35.227.172.67/project/about.php
+http://35.227.172.67/project/index.php
+http://35.227.172.67/project/config.php
+http://35.227.172.67/project/pokemon_name.php
+http://35.227.172.67/project/pokemon_type.php
+http://35.227.172.67/project/pokemon_category.php
+http://35.227.172.67/project/pokemon_stats.php
+http://35.227.172.67/project/style.css
+http://35.227.172.67/project/pikaorb.png
